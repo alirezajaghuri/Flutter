@@ -1,5 +1,5 @@
-portfolio_5338007
-Name: Ali Reza JAghuri 
+Portfolio_5338007
+Name: Ali Reza Jaghuri 
 E-mail: ali.reza.jaghuri@mnd.thm.de
 
 Portfolio Projekt
