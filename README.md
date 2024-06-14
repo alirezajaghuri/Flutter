@@ -10,5 +10,5 @@ Bevor Sie das Portfolio-Projekt ausführen können, stellen Sie bitte sicher, da
 
 Nachdem Sie Flutter erfolgreich installiert haben, können Sie das Repository mit folgendem Befehl klonen:
 
-git clone https://github.com/dein-benutzername/portfolio_<matrnr>.git
+git clone https://github.com/dein-benutzername/portfolio_<matrnr>.git.
 Stellen Sie sicher, dass Sie den Platzhalter <matrnr> durch Ihre tatsächliche Matrikelnummer ersetzen.
